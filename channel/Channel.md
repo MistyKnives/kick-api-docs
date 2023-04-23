@@ -81,7 +81,7 @@ Get the details of the channel metntioned in the URL. Including their Livestream
             "emotes_mode": Boolean,
             "message_interval": Integer,
             "following_min_duration": Boolean
-            },
+        },
         "ascending_links": [{
             "id": Integer,
             "channel_id": Integer,
@@ -92,6 +92,7 @@ Get the details of the channel metntioned in the URL. Including their Livestream
             "order": Integer,
             "title": String
             },
+        ],
         "previous_livestreams": [
             {
                 "id": Integer,
