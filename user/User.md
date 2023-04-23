@@ -1,9 +1,9 @@
 # User
 Get the details of the username mentioned in the URL paramaters
-**URL**: `/api/v1/users/{username}`
-**METHOD**: `GET`
-**Rate Limited?**: `YES`
-**Authenticated?**: `NO`
+<br>**URL**: `/api/v1/users/{username}`
+<br>**METHOD**: `GET`
+<br>**Rate Limited?**: `YES`
+<br>**Authenticated?**: `NO`
 
 <details>
     <summary style="font-weight: bold">Response</summary>

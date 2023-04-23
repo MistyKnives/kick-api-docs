@@ -1,9 +1,9 @@
 # Get Channel Emotes
 Get a list of the emotes from a channel.
-**URL**: `/emotes/{channel}`
-**METHOD**: `GET`
-**Rate Limited?**: `YES`
-**Authenticated?**: `NO`
+<br>**URL**: `/emotes/{channel}`
+<br>**METHOD**: `GET`
+<br>**Rate Limited?**: `YES`
+<br>**Authenticated?**: `NO`
 
 <details>
     <summary style="font-weight: bold">Response</summary>

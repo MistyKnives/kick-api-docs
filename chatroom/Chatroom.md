@@ -1,9 +1,9 @@
 # Chatroom
 Get the information for a Channel's chatroom.
-**URL**: `/api/v1/{username}/chatroom`
-**METHOD**: `GET`
-**Rate Limited?**: `YES`
-**Authenticated?**: `NO`
+<br>**URL**: `/api/v1/{username}/chatroom`
+<br>**METHOD**: `GET`
+<br>**Rate Limited?**: `YES`
+<br>**Authenticated?**: `NO`
 
 <details>
     <summary style="font-weight: bold">Response</summary>

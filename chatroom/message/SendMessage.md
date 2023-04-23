@@ -1,9 +1,9 @@
 # Send Message
 Send a message directly to a channel's chatroom
-**URL**: `/api/v1/chat-messages`
-**METHOD**: `POST`
-**Rate Limited?**: `YES`
-**Authenticated?**: `YES`
+<br>**URL**: `/api/v1/chat-messages`
+<br>**METHOD**: `POST`
+<br>**Rate Limited?**: `YES`
+<br>**Authenticated?**: `YES`
 
 <details>
     <summary style="font-weight: bold">Paramaters</summary>

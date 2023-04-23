@@ -1,9 +1,9 @@
 # Channel
 Get the details of the channel metntioned in the URL. Including their Livestream if they are currently live.
-**URL**: `/api/v1/channels/{username}`
-**METHOD**: `GET`
-**Rate Limited?**: `YES`
-**Authenticated?**: `NO`
+<br>**URL**: `/api/v1/channels/{username}`
+<br>**METHOD**: `GET`
+<br>**Rate Limited?**: `YES`
+<br>**Authenticated?**: `NO`
 
 <details>
     <summary style="font-weight: bold">Response</summary>

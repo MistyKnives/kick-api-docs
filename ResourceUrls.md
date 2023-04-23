@@ -1,9 +1,9 @@
 # Resource URLs
 Not sure exactly what this endpoint is but here u go!
-**URL**: `/api/v1/resource-urls`
-**METHOD**: `GET`
-**Rate Limited?**: `YES`
-**Authenticated?**: `NO`
+<br>**URL**: `/api/v1/resource-urls`
+<br>**METHOD**: `GET`
+<br>**Rate Limited?**: `YES`
+<br>**Authenticated?**: `NO`
 
 <details>
     <summary style="font-weight: bold">Response</summary>

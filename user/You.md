@@ -1,9 +1,9 @@
 # User
 Get the details of your User object.
-**URL**: `/api/v1/user`
-**METHOD**: `GET`
-**Rate Limited?**: `YES`
-**Authenticated?**: `YES`
+<br>**URL**: `/api/v1/user`
+<br>**METHOD**: `GET`
+<br>**Rate Limited?**: `YES`
+<br>**Authenticated?**: `YES`
 
 <h5>I'm not sure why but there's no data being responded to this endpoint. Let me know if anyone can get access to it!</h5>
 
