@@ -51,6 +51,11 @@ Send a message directly to a channel's chatroom
         ]
     }
 }
+```
 
+```json
+{
+    "message": "Server Error"
+}
 ```
 </details>
